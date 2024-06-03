@@ -11,9 +11,10 @@ The Contacts App is an Android application that allows users to manage their con
 
 ## Screenshots
 
-
-
-
+![updateEditContact](https://github.com/Ksabrinah1/ContactsApp/assets/103067816/2aac59c4-a73f-4826-99fe-f471d92e13ae)
+![contactList](https://github.com/Ksabrinah1/ContactsApp/assets/103067816/4d78ccae-29d0-42f2-aff1-ca66cebfd119)
+![addcontact](https://github.com/Ksabrinah1/ContactsApp/assets/103067816/4788ad0d-3961-424f-b1cd-b64222b0aab3)
+![contacthome](https://github.com/Ksabrinah1/ContactsApp/assets/103067816/db89183c-9e11-46a9-ad42-eef43d89351d)
 
 
 #### Installation
